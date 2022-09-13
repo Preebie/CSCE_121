@@ -1,0 +1,22 @@
+﻿  functions.cpp
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(213,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(217,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(223,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(227,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(233,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(237,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(243,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(247,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(253,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(257,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(263,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(267,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(273,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(277,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(283,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(287,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(293,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\functions.cpp(297,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  seamcarving.cpp
+  Generating Code...
+  HW 4 - Seam Carving Part 1.vcxproj -> C:\Users\pbarn\Documents\CSCE 121\Homework\HW 4 - Seam Carving Part 1\Debug\HW 4 - Seam Carving Part 1.exe

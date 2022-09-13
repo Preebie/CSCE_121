@@ -1,0 +1,4 @@
+﻿  string_calculator.cpp
+C:\Users\pbarn\Downloads\[HW] String Calculator Starter Code\string_calculator.cpp(367,40): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\pbarn\Downloads\[HW] String Calculator Starter Code\string_calculator.cpp(325,9): warning C4101: 'plus': unreferenced local variable
+  String Calculator.vcxproj -> C:\Users\pbarn\Documents\CSCE121\HW 1 - String Calculator\String Calculator\Debug\String Calculator.exe

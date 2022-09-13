@@ -1,0 +1,2 @@
+C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 121\Labs\Lab 1 - Grade Calculator\Debug\Lab1.exe
+C:\Users\barnw\Documents\A&M Classes\Coding Classes\CSCE 121\Labs\Lab 1 - Grade Calculator\Debug\Lab1.pdb

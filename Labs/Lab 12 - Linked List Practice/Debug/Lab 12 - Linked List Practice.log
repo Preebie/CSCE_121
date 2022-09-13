@@ -1,0 +1,4 @@
+﻿  linked_list.cpp
+C:\Users\pbarn\Documents\CSCE 121\Labs\Lab 12 - Linked List Practice\linked_list.cpp(37,21): warning C4018: '<': signed/unsigned mismatch
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\pbarn\Documents\CSCE 121\Labs\Lab 12 - Linked List Practice\Debug\Lab 12 - Linked List Practice.exe : fatal error LNK1120: 1 unresolved externals
